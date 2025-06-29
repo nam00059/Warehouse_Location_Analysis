@@ -16,7 +16,7 @@ I assessed 5 candidate counties in Minnesota based on 3 core dimensions:
 
 <p align="center">
   <a href="Presentation_Slides.pdf">
-    <img src="metrix.png" alt="metrix" width="600"/>
+    <img src="/Images/metrix.png" alt="metrix" width="600"/>
 </p>
     
 ### ✅ Supply
@@ -30,7 +30,7 @@ I assessed 5 candidate counties in Minnesota based on 3 core dimensions:
 
 <p align="center">
   <a href="Presentation_Slides.pdf">
-    <img src="demand.png" alt="demand" width="600"/>
+    <img src="/Images/demand.png" alt="demand" width="600"/>
 </p>
     
 ### ✅ Cost
@@ -42,7 +42,7 @@ The total score guided the recommended location.
 
 <p align="center">
   <a href="Presentation_Slides.pdf">
-    <img src="cost.png" alt="cost" width="600"/>
+    <img src="/Images/cost.png" alt="cost" width="600"/>
 </p>
     
 ---
