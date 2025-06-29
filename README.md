@@ -54,7 +54,8 @@ The total score guided the recommended location.
 ## 📊 Interactive Tableau Dashboard
 
 <p align="center">
-  <img src="images/dashboard_preview.png" alt="Warehouse Location Dashboard Preview" width="600"/>
+  <a href="Presentation_Slides.pdf">
+    <img src="dashboard_preview.png" alt="Warehouse Location Dashboard Preview" width="600"/>
 </p>
 
 ---
