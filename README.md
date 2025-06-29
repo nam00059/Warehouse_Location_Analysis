@@ -1,4 +1,4 @@
-# 🧺 Warehouse Location Optimization for an Agriculture Nonprofit
+# Warehouse Location Optimization for an Agriculture Nonprofit
 
 This project aims to support a Minnesota-based agriculture-focused nonprofit in determining the **optimal county** for establishing a new **aggregation hub**. I built a flexible scoring model using public datasets and multiple weighted factors reflecting supply, demand, and cost.
 
