@@ -14,6 +14,11 @@ To identify the best location for expanding the nonprofit’s network of aggrega
 
 I assessed 5 candidate counties in Minnesota based on 3 core dimensions:
 
+<p align="center">
+  <a href="Presentation_Slides.pdf">
+    <img src="metrix.png" alt="metrix" width="600"/>
+</p>
+    
 ### ✅ Supply
 - Number of farmers  
 - Harvested crop acreage  
@@ -23,6 +28,11 @@ I assessed 5 candidate counties in Minnesota based on 3 core dimensions:
 - Current farm sales  
 - Potential number of buyers (CSA, food hubs, hospitals, schools)  
 
+<p align="center">
+  <a href="Presentation_Slides.pdf">
+    <img src="demand.png" alt="demand" width="600"/>
+</p>
+    
 ### ✅ Cost
 - Land cost per acre  
 - Transportation infrastructure index (based on public freight network data)
@@ -30,6 +40,11 @@ I assessed 5 candidate counties in Minnesota based on 3 core dimensions:
 Each factor was scored from 1 to 5 and weighted according to client priorities.  
 The total score guided the recommended location.
 
+<p align="center">
+  <a href="Presentation_Slides.pdf">
+    <img src="cost.png" alt="cost" width="600"/>
+</p>
+    
 ---
 
 ## 🧮 Methodology Steps
@@ -54,7 +69,7 @@ The total score guided the recommended location.
 ## 📊 Interactive Tableau Dashboard
 
 <p align="center">
-  <a href="Presentation_Slides.pdf">
+  <a href="Warehouse_Location_Dashboard.twbx">
     <img src="dashboard_preview.png" alt="Warehouse Location Dashboard Preview" width="600"/>
 </p>
 
@@ -64,8 +79,6 @@ The total score guided the recommended location.
 
 This repository is for **portfolio and educational purposes only**.  
 Final deliverables and presentation materials are **original student work** and **not for redistribution or reuse** without permission.
-
-📁 See [`/presentation/README.md`](./presentation/README.md) for usage details.
 
 ---
 
