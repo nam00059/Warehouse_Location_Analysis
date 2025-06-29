@@ -44,7 +44,7 @@ The total score guided the recommended location.
   <a href="Presentation_Slides.pdf">
     <img src="/Images/cost.png" alt="cost" width="600"/>
 </p>
-    
+
 ---
 
 ## 🧮 Methodology Steps
@@ -54,6 +54,12 @@ The total score guided the recommended location.
 3. **Scoring each factor (1–5)** and applying weights
 4. **Ranking counties** based on total weighted score
 5. **Building a dashboard** for client collaboration and decision support
+
+---
+
+## 💻 Tools Used
+- **SQL & Excel**: Data cleaning, feature engineering, weighted scoring logic
+- **Tableau**: Dashboard creation and visualization
 
 ---
 
